@@ -1,4 +1,4 @@
-# 🎬 Movie Analytics Report & Dashboard
+# Movie Analytics Report & Dashboard
 
 This project analyzes movie data from [The Movie Database (TMDB)
 API](https://developer.themoviedb.org/docs/getting-started), combining
@@ -6,14 +6,14 @@ API](https://developer.themoviedb.org/docs/getting-started), combining
 It was developed as part of INFO-6150: Data Mining & Analysis (August
 2025) course at Fanshawe College.
 
-## 📂 Project Structure
+## Project Structure
 
 -   `Movie Analytics Report.pdf` → Full report of methods, analysis, and
     findings\
 -   `Movies Dashboard.pbix` → Interactive Power BI dashboard for data
     exploration\
 
-## 🔍 Features
+## Features
 
 -   **Data Extraction**: Python script pulls movie data (titles, genres,
     votes, popularity, language, release date).\
@@ -29,7 +29,7 @@ It was developed as part of INFO-6150: Data Mining & Analysis (August
     similarity to recommend similar movies.\
 -   **Data Art**: Genre evolution visualized over 25 years.
 
-## 📊 Key Insights
+## Key Insights
 
 -   **Seasonal Popularity**: Movies released May--July peak in
     popularity.\
@@ -45,7 +45,7 @@ It was developed as part of INFO-6150: Data Mining & Analysis (August
     -   Cluster 0 → Moderate Performers (balanced genres).
     
 
-## 📖 References
+## References
 
 -   [TMDb API
     Docs](https://developer.themoviedb.org/docs/getting-started)\
